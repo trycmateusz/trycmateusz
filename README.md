@@ -3,9 +3,9 @@
 I've been learning Web Development for about 2.5 years now.<br>
 I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
 I like what I'm doing and I also plan to study Node.js backend to get a better understaning of what is going on under the hood. 🔧<br>
+Here is the list of the things I've grasped and learned so far : )<br>
 
-### My Skillset:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="./vue.png" alt="Vue" width="60" height="60" />
   <img src="./nuxt.png" alt="Nuxt" width="60" height="60" />
   <img src="./typescript.png" alt="Typescript" width="60" height="60" />
