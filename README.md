@@ -6,7 +6,7 @@ I like what I'm doing and I also plan to study Node.js backend<br>
 to get a better understaning of what is going on under the hood. 🔧
 
 ### My Skillset:
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-wrap: wrap; max-width: 700px;">
   <img src="./vue.png" alt="Vue" width="80" height="80" />
   <img src="./nuxt.png" alt="Nuxt" width="80" height="80" />
   <img src="./typescript.png" alt="Typescript" width="80" height="80" />
