@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to my profile 🕶️ <br> I'm Matt, a Vue 3 Front-end Developer
 
-<!--
-**trycmateusz/trycmateusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been learning Web Development for about 2.5 years now.
+I refine my knowledge everyday and I strive to learn new technologies in the future.
+I like what I'm doing and I also plan to study Node.js backend
+to get a better understaning of what is going on under the hood. 🔧
 
-Here are some ideas to get you started:
+### My Skillset:
+<div style="display: flex; flex-wrap: wrap">
+  <img src="./vue.png" alt="Vue Icon" width="80" height="80" />
+  <img src="./nuxt.svg" alt="Nuxt Icon" width="80" height="80" />
+  <img src="./typescript.svg" alt="Typescript Icon" width="80" height="80" />
+  <img src="./tailwind.svg" alt="Tailwind Icon" width="80" height="80" />
+  <img src="./js.svg" alt="Javascript Icon" width="80" height="80" />
+  <img src="./sass.svg" alt="Sass Icon" width="80" height="80" />
+  <img src="./html5.svg" alt="HTML Icon" width="80" height="80" />
+  <img src="./git.svg" alt="Git Icon" width="80" height="80" />
+  <img src="./figma.svg" alt="Figma Icon" width="80" height="80" />
+  <img src="./python.svg" alt="Python Icon" width="80" height="80" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
