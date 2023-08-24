@@ -1,4 +1,4 @@
-# Welcome to my profile 🕶️ <br> I'm Matt, a Vue 3 Front-end Developer
+# I'm Matt, a Vue 3 Front-end Developer 🤓
 
 I've been learning Web Development for about 2.5 years now.<br>
 I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
