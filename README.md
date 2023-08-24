@@ -1,8 +1,8 @@
-<h1 class="text-align: center;">
+<h1 style="text-align: center;">
   Welcome to my profile 🕶️ <br> I'm Matt, a Vue 3 Front-end Developer
 </h1>
 
-<p class="text-align: center;">
+<p style="text-align: center;">
   I've been learning Web Development for about 2.5 years now.<br>
   I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
   I like what I'm doing and I also plan to study Node.js backend<br>
@@ -11,7 +11,7 @@
 
 
 ### My Skillset:
-<div style="display: flex; flex-wrap: wrap; ">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center">
   <img src="./vue.png" alt="Vue" width="80" height="80" />
   <img src="./nuxt.png" alt="Nuxt" width="80" height="80" />
   <img src="./typescript.png" alt="Typescript" width="80" height="80" />
