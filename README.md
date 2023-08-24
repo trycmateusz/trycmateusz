@@ -1,8 +1,8 @@
 # Welcome to my profile 🕶️ <br> I'm Matt, a Vue 3 Front-end Developer
 
-I've been learning Web Development for about 2.5 years now.
-I refine my knowledge everyday and I strive to learn new technologies in the future.
-I like what I'm doing and I also plan to study Node.js backend
+I've been learning Web Development for about 2.5 years now.<br>
+I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
+I like what I'm doing and I also plan to study Node.js backend<br>
 to get a better understaning of what is going on under the hood. 🔧
 
 ### My Skillset:
