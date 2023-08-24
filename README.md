@@ -1,12 +1,17 @@
-# Welcome to my profile 🕶️ <br> I'm Matt, a Vue 3 Front-end Developer
+<h1 class="text-align: center;">
+  Welcome to my profile 🕶️ <br> I'm Matt, a Vue 3 Front-end Developer
+</h1>
 
-I've been learning Web Development for about 2.5 years now.<br>
-I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
-I like what I'm doing and I also plan to study Node.js backend<br>
-to get a better understaning of what is going on under the hood. 🔧
+<p class="text-align: center;">
+  I've been learning Web Development for about 2.5 years now.<br>
+  I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
+  I like what I'm doing and I also plan to study Node.js backend<br>
+  to get a better understaning of what is going on under the hood. 🔧
+</p>
+
 
 ### My Skillset:
-<div style="display: flex; flex-wrap: wrap; max-width: 700px;">
+<div style="display: flex; flex-wrap: wrap; ">
   <img src="./vue.png" alt="Vue" width="80" height="80" />
   <img src="./nuxt.png" alt="Nuxt" width="80" height="80" />
   <img src="./typescript.png" alt="Typescript" width="80" height="80" />
