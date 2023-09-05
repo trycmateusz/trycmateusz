@@ -2,7 +2,7 @@
 
 I've been learning Web Development for about 2.5 years now.<br>
 I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
-I like what I'm doing and I also plan to study Node.js backend to get a better understaning of what is going on under the hood. 🔧<br>
+I like the enviroment that I work in , but I also plan to study Node.js backend to get a better understaning of what is going on under the hood. 🔧<br>
 Here is the list of the things I've grasped and learned so far : )<br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
