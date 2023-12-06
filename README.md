@@ -1,8 +1,9 @@
 # I'm Matt - a Vue 3 Front-end Developer 🤓
 
 I've been learning Web Development for about 3 years now.<br>
-I refine my knowledge everyday and I strive to learn new technologies in the future.<br>
-I like the enviroment that I work in , but I also plan to study Node.js backend to get a better understaning of what is going on under the hood. 🔧<br>
+Recently I've became very comfortable with using Nuxt with TypeScript. You can verify it by checking my apps: Xploric and Cosweats. : )
+Other than that, working with setup Pinia stores and Composition API became totally natural to me. I am seeing that now I'm spending very little time writing components and pages.
+And even though I like the enviroment that I work in , I plan to study Node.js to become a Full Stack Developer. 🔧<br>
 Here is the list of the things I've grasped and learned so far : )<br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
