@@ -6,6 +6,8 @@ Other than that, working with setup Pinia stores and Composition API became tota
 And even though I like the enviroment that I work in , I plan to study Node.js to become a Full Stack Developer. 🔧<br>
 Here is the list of the things I've grasped and learned so far : )<br>
 
+## Techstack
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="./vue.png" alt="Vue" width="60" height="60" />
   <img src="./nuxt.png" alt="Nuxt" width="60" height="60" />
