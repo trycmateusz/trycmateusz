@@ -3,7 +3,7 @@
 I've been learning Web Development for about 3 years now.<br>
 Recently I've became very comfortable with using Nuxt with TypeScript. You can verify it by checking my apps: Xploric and Cosweats. : )
 Other than that, working with setup Pinia stores and Composition API became totally natural to me. I am seeing that now I'm spending very little time writing my components.
-And even though I like the enviroment that I work in , I plan to study Node.js to become a Full Stack Developer. 🔧<br>
+And even though I like the enviroment that I work in , I plan to study Java to start my learning backend journey.<br>
 Here is the list of the things I've grasped and learned so far : )<br>
 
 ## Techstack
