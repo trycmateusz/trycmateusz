@@ -2,7 +2,6 @@
 
 I've been learning Web Development for about 3 years now.<br>
 Recently I've became very comfortable with using Nuxt with TypeScript.<br>
-
 You can verify it by checking my apps:
 - [Xploric](https://xploric.vercel.app)
 - [Cosweats](https://cosweats.vercel.app)
