@@ -5,6 +5,7 @@ Recently I've became very comfortable with using Nuxt with TypeScript.<br>
 You can verify it by checking my apps:
 - [Xploric](https://xploric.vercel.app)
 - [Cosweats](https://cosweats.vercel.app)
+
 You can find their respective repo's down below. 
 At the moment I focus on Nuxt and building web applications with it, but I don't see any problem adapting to other technologies.
 And even though I like the enviroment that I work in , I plan to study Java to start my learning backend journey.<br>
