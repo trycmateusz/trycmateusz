@@ -16,6 +16,8 @@ Here is the list of the things I've learned so far : )<br>
   <img src="./vue.png" alt="Vue" width="60" height="60" />
   <img src="./nuxt.png" alt="Nuxt" width="60" height="60" />
   <img src="./typescript.png" alt="Typescript" width="60" height="60" />
+  <img src="./react.png" alt="React" width="60" height="60" />
+  <img src="./nextjs.png" alt="Nextjs" width="60" height="60" />
   <img src="./tailwind.png" alt="Tailwind" width="60" height="60" />
   <img src="./js.png" alt="Javascript" width="60" height="60" />
   <img src="./git.png" alt="Git" width="60" height="60" />
