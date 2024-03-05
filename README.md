@@ -1,4 +1,4 @@
-# I'm Matt - Nuxt Frontend Developer
+# Hi, i'm Matt - a Fullstack Developer
 
 I've been learning Web Development for about 3 years now.<br>
 The latest tech I've learned is PHP with Laravel.<br>
