@@ -11,6 +11,7 @@ Here is the list of the things I've learned so far : )
 - [Magic the Gathering Deck Builder](https://github.com/trycmateusz/Magic-the-Gathering-deck-builder) - a deck builder for a popular card game franchise (using Next.js)
 - [Terraria Block Palette Remastered](https://github.com/trycmateusz/Terraria-Block-Palette-Remastered) - an app for searching inspiration to build in the game Terraria (using Vue 3)
 <br>
+
 ## Techstack
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
