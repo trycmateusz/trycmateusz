@@ -6,11 +6,11 @@ I am very interested in learning backend and the technologies mentioned above ma
 My next step would be learning practical uses of testing and CI/CD.
 Here are some of my apps:<br>
 - [Cosweats](https://github.com/trycmateusz/Cosweats) - an online clothing store (using Nuxt 3)
+- [Xploric](https://github.com/trycmateusz/Xploric) - an app for saving and listening to music using Spotify API (WIP) (using Nuxt 3)
+Here is the list of the things I've learned so far : )
 - [Magic the Gathering Deck Builder](https://github.com/trycmateusz/Magic-the-Gathering-deck-builder) - a deck builder for a popular card game franchise (using Next.js)
 - [Terraria Block Palette Remastered](https://github.com/trycmateusz/Terraria-Block-Palette-Remastered) - an app for searching inspiration to build in the game Terraria (using Vue 3)
-- [Xploric](https://github.com/trycmateusz/Xploric) - an app for saving and listening to music using Spotify API (WIP) (using Nuxt 3)
-Here is the list of the things I've learned so far : )<br>
-
+<br>
 ## Techstack
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
