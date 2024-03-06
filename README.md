@@ -9,7 +9,9 @@ Here are some of my apps:<br>
 - [Xploric](https://github.com/trycmateusz/Xploric) - an app for saving and listening to music using Spotify API (WIP) (using Nuxt 3)
 - [Magic the Gathering Deck Builder](https://github.com/trycmateusz/Magic-the-Gathering-deck-builder) - a deck builder for a popular card game franchise (using Next.js)
 - [Terraria Block Palette Remastered](https://github.com/trycmateusz/Terraria-Block-Palette-Remastered) - an app for searching inspiration to build in the game Terraria (using Vue 3)
-Here is the list of the things I've learned so far : )<br>
+<br>
+Here is the list of the things I've learned so far : )
+<br>
 
 ## Techstack
 
