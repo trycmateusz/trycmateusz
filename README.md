@@ -1,9 +1,5 @@
 # Hi, i'm Matt - a Fullstack Developer
 
-I've been learning Web Development for about 3 years now.<br>
-The latest tech I've learned is PHP with Laravel.<br>
-I am very interested in learning backend and the technologies mentioned above make it very enjoyable.<br>
-My next step would be learning practical uses of testing and CI/CD.<br>
 Here are some of my apps:<br>
 - [Cosweats](https://github.com/trycmateusz/Cosweats) - an online clothing store (using Nuxt 3)
 - [Xploric](https://github.com/trycmateusz/Xploric) - an app for saving and listening to music using Spotify API (WIP) (using Nuxt 3)
