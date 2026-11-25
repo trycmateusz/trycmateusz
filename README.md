@@ -1,6 +1,8 @@
 # Hi, i'm Matt - a Fullstack Developer
 
-Here are some of my apps:<br>
+Currently I'm working comercially as a full stack developer since 2026-04.
+
+Here are some of my apps that I've made on my learning adventure :D<br>
 - [Cosweats](https://github.com/trycmateusz/Cosweats) - an online clothing store (using Nuxt 3)
 - [Xploric](https://github.com/trycmateusz/Xploric) - an app for saving and listening to music using Spotify API (WIP) (using Nuxt 3)
 - [Magic the Gathering Deck Builder](https://github.com/trycmateusz/Magic-the-Gathering-deck-builder) - a deck builder for a popular card game franchise (using Next.js)
