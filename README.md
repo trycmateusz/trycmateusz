@@ -17,14 +17,9 @@ Here are some of my apps that I've made on my learning adventure :D<br>
   <img src="./php.png" alt="PHP" width="60" height="60" />
   <img src="./laravel.png" alt="Laravel" width="60" height="60" />
   <img src="./react.png" alt="React" width="60" height="60" />
-  <img src="./nextjs.png" alt="Nextjs" width="60" height="60" />
-  <img src="./js.png" alt="Javascript" width="60" height="60" />
   <img src="./tailwind.png" alt="Tailwind" width="60" height="60" />
   <img src="./git.png" alt="Git" width="60" height="60" />
-  <img src="./sass.png" alt="Sass" width="60" height="60" />
-  <img src="./html5.png" alt="HTML" width="60" height="60" />
   <img src="./figma.png" alt="Figma" width="60" height="60" />
-  <img src="./python.png" alt="Python" width="60" height="60" />
 </div>
 
 
